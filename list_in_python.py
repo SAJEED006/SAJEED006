@@ -1,4 +1,4 @@
-from ast import Delete
+
 
 
 fruits=["banana","apple","mango","orange"]              # using list, in this we will create a list
