@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(247, 203, 11);
+}
+button{
+    background-color: #f9fffd;
+    border: none;
+    color: rgb(250, 3, 3);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  button{border-radius: 12px;}
+  h12{
+    color: rgb(0, 0, 0);
+  }
+  
